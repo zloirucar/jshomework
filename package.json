@@ -1,0 +1,22 @@
+{
+  "name": "graf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zloirucar/jshomework.git"
+  },
+  "author": "Fedotov Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zloirucar/jshomework/issues"
+  },
+  "homepage": "https://github.com/zloirucar/jshomework#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
